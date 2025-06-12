@@ -2,7 +2,8 @@
 
 See repositoorium koondab õpiku [Akustilised meetodid foneetikas. Kõneanalüüs programmiga Praat](https://kodu.ut.ee/~partel/foneetika-programmiga-praat/) juurde kuuluvaid faile, skripte jm lisamaterjali.
 
-Materjal on süstematiseeritud enam-vähem peatükkide kaupa.
+Materjal on süstematiseeritud üldiselt peatükkide kaupa, kuid helifailid, mida kasutatakse mitmetes peatükkides, on kataloogis helifailid/.
+
 
 
 
