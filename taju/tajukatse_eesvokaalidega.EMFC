@@ -1,0 +1,55 @@
+"ooTextFile"
+"ExperimentMFC 7"
+blankWhilePlaying? <no>
+stimuliAreSounds? <yes>
+stimulusFileNameHead = "stiimulid/"
+stimulusFileNameTail = ".wav"
+stimulusCarrierBefore = ""
+stimulusCarrierAfter = "" 
+stimulusInitialSilenceDuration = 0.5 seconds
+stimulusMedialSilenceDuration = 0
+stimulusFinalSilenceDuration = 0.5 seconds
+numberOfDifferentStimuli = 7
+"stim_F1_200" "" 
+"stim_F1_300" "" 
+"stim_F1_400" "" 
+"stim_F1_500" "" 
+"stim_F1_600" "" 
+"stim_F1_700" "" 
+"stim_F1_800" ""
+numberOfReplicationsPerStimulus = 5
+breakAfterEvery = 0
+randomize = <PermuteBalancedNoDoublets>
+startText = "Teretulemast katsesse!
+
+Kuuled kõrvaklappidest eesti keele vokaale
+ja pead otsustama, mis vokaaliga oli tegu.
+Vastama pead ##kohe#, ära jää pikalt mõtlema.
+%%Stiimuleid kuuled ainult ühe korra,
+uuesti mängimise võimalust ei ole.%
+
+Klõpsa hiirega, kui oled valmis alustama!"
+runText = "Mis häälikut kuulsid?"
+pauseText = "Võid teha väikese pausi. Klõpsa, kui oled valmis jätkama."
+endText = "Katse on lõppenud. Aitäh osalemast!" 
+maximumNumberOfReplays = 0
+replayButton = 0.4 0.6 0.1 0.2 "Mängi uuesti" "" 
+okButton = 0 0 0 0 "" ""
+oopsButton = 0 0 0 0 "" ""
+responsesAreSounds? <no> "" "" "" "" 0 0 0
+numberOfDifferentResponses = 9
+0.1 0.2 0.7 0.8 "i" 40 "" "i"
+0.25 0.35 0.7 0.8 "ü" 40 "" "y"
+0.75 0.85 0.7 0.8 "u" 40 "" "u"
+0.2 0.3 0.5 0.6 "e" 40 "" "e"
+0.35 0.45 0.5 0.6 "ö" 40 "" "ö"
+0.55 0.65 0.5 0.6 "õ" 40 "" "õ"
+0.7 0.8 0.5 0.6 "o" 40 "" "o"
+0.35 0.45 0.25 0.35 "ä" 40 "" "ä"
+0.65 0.75 0.25 0.35 "a" 40 "" "a"
+numberOfGoodnessCategories = 5
+0.05 0.15 0.05 0.15 "1 (kehv)" 24 ""
+0.25 0.35 0.05 0.15 "2" 24 ""
+0.45 0.55 0.05 0.15 "3" 24 ""
+0.65 0.75 0.05 0.15 "4" 24 ""
+0.85 0.95 0.05 0.15 "5 (hea)" 24 ""

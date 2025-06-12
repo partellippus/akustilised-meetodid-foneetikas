@@ -1,0 +1,70 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.9905773809523737 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "laused" 
+        xmin = 0 
+        xmax = 1.9905773809523737 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.9905773809523737 
+            text = "w125 Emale saada tervisi." 
+    item [2]:
+        class = "IntervalTier" 
+        name = "h‰‰likud" 
+        xmin = 0 
+        xmax = 1.9905773809523737 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6573623925264656 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6573623925264656 
+            xmax = 0.7658725987554078 
+            text = "s" 
+        intervals [3]:
+            xmin = 0.7658725987554078 
+            xmax = 0.9293377976190413 
+            text = "AA" 
+        intervals [4]:
+            xmin = 0.9293377976190413 
+            xmax = 0.9987550770308218 
+            text = "t" 
+        intervals [5]:
+            xmin = 0.9987550770308218 
+            xmax = 1.0878968253968253 
+            text = "A" 
+        intervals [6]:
+            xmin = 1.0878968253968253 
+            xmax = 1.9905773809523737 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "silbid" 
+        xmin = 0 
+        xmax = 1.9905773809523737 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6573623925264656 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6573623925264656 
+            xmax = 0.9293377976190413 
+            text = "S1" 
+        intervals [3]:
+            xmin = 0.9293377976190413 
+            xmax = 1.0878968253968253 
+            text = "S2" 
+        intervals [4]:
+            xmin = 1.0878968253968253 
+            xmax = 1.9905773809523737 
+            text = "" 

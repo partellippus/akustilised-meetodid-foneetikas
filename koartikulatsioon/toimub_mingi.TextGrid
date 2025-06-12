@@ -1,0 +1,102 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.878597860102218 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sõnad" 
+        xmin = 0 
+        xmax = 0.878597860102218 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0030086164670137805 
+            text = "seal" 
+        intervals [2]:
+            xmin = 0.0030086164670137805 
+            xmax = 0.3492401216462895 
+            text = "toimub" 
+        intervals [3]:
+            xmin = 0.3492401216462895 
+            xmax = 0.878597860102218 
+            text = "mingi" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "häälikud" 
+        xmin = 0 
+        xmax = 0.878597860102218 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0030086164670137805 
+            text = "l" 
+        intervals [2]:
+            xmin = 0.0030086164670137805 
+            xmax = 0.06079903195586667 
+            text = "t" 
+        intervals [3]:
+            xmin = 0.06079903195586667 
+            xmax = 0.11337935829305934 
+            text = "o" 
+        intervals [4]:
+            xmin = 0.11337935829305934 
+            xmax = 0.207118892446033 
+            text = "i:" 
+        intervals [5]:
+            xmin = 0.207118892446033 
+            xmax = 0.2509648035825194 
+            text = "m" 
+        intervals [6]:
+            xmin = 0.2509648035825194 
+            xmax = 0.2932987867484371 
+            text = "u" 
+        intervals [7]:
+            xmin = 0.2932987867484371 
+            xmax = 0.3492401216462895 
+            text = "m" 
+        intervals [8]:
+            xmin = 0.3492401216462895 
+            xmax = 0.43239616000801107 
+            text = "m" 
+        intervals [9]:
+            xmin = 0.43239616000801107 
+            xmax = 0.5473026857443983 
+            text = "N:" 
+        intervals [10]:
+            xmin = 0.5473026857443983 
+            xmax = 0.631240760174478 
+            text = "k" 
+        intervals [11]:
+            xmin = 0.631240760174478 
+            xmax = 0.878597860102218 
+            text = "i_k::" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "silbid" 
+        xmin = 0 
+        xmax = 0.878597860102218 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0030086164670137805 
+            text = "1PK" 
+        intervals [2]:
+            xmin = 0.0030086164670137805 
+            xmax = 0.207118892446033 
+            text = "1PL" 
+        intervals [3]:
+            xmin = 0.207118892446033 
+            xmax = 0.3492401216462895 
+            text = "2PK" 
+        intervals [4]:
+            xmin = 0.3492401216462895 
+            xmax = 0.5473026857443983 
+            text = "1PK" 
+        intervals [5]:
+            xmin = 0.5473026857443983 
+            xmax = 0.878597860102218 
+            text = "2LL" 
