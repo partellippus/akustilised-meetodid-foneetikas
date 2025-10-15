@@ -1,6 +1,7 @@
 Erase all
 Read from file: "diftongid.Collection"
 
+Font size: 14
 Select outer viewport: 0, 4, 0, 4-0.15
 
 selectObject: "Sound ui"
@@ -116,6 +117,6 @@ plusObject: "Sound ea"
 plusObject: "TextGrid ea"
 Remove
 
-Select outer viewport: 0, 10, 0, 7.5
+Select outer viewport: 0, 9.4, 0.2, 7.5
 
 Save as 300-dpi PNG file: "diftongid.png"

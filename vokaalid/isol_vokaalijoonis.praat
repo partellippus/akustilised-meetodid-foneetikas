@@ -2,6 +2,7 @@
 # CC by, Pärtel Lippus, 10.08.2024
 
 Erase all
+Font size: 12
 
 for n to 2
 if n = 1
@@ -58,5 +59,5 @@ else
 endif
 endfor
 
-Select outer viewport: 0, 8.5, 0, 4
-Save as 300-dpi PNG file: "../Failid/vokaalid/formantlaed_5000-4600.png"
+Select outer viewport: 0, 8, 0.2, 4
+Save as 300-dpi PNG file: "formantlaed_5000-4600.png"

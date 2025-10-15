@@ -1,6 +1,7 @@
 # Skript, mis joonistab sünteesitud /e/ hääliku spektrogrammi ja spektri
 # CC by, Pärtel Lippus, 25.07.2024
 
+Font size: 12
 Erase all
 wav = Read from file: "synt_vok_e.wav"
 spektro = To Spectrogram: 0.005, 5000, 0.002, 20, "Gaussian"
@@ -53,7 +54,7 @@ for i to 4
 endfor
 Black
 
-Select outer viewport: 0, 7.5, 0, 4
+Select outer viewport: 0, 7, 0.2, 4
 Save as 300-dpi PNG file: "spekter-spektrogramm.png"
 
 

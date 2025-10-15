@@ -20,13 +20,13 @@ numberOfDifferentStimuli = 7
 numberOfReplicationsPerStimulus = 5
 breakAfterEvery = 0
 randomize = <PermuteBalancedNoDoublets>
-startText = "Teretulemast katsesse!
+startText = "Tere tulemast katsesse!
 
 Kuuled kõrvaklappidest eesti keele vokaale
 ja pead otsustama, mis vokaaliga oli tegu.
 Vastama pead ##kohe#, ära jää pikalt mõtlema.
-%%Stiimuleid kuuled ainult ühe korra,
-uuesti mängimise võimalust ei ole.%
+%%Stiimuleid kuuled ainult ühe korra,%
+%%uuesti mängimise võimalust ei ole.%
 
 Klõpsa hiirega, kui oled valmis alustama!"
 runText = "Mis häälikut kuulsid?"

@@ -1,5 +1,5 @@
 # Loeb sisse helifaili, teeb sellest põhitooniananlüüsi ja joonistab põhitoonikontuuri 
-# CC by Pärtel Lippus  10.06.2025 
+# CC by Pärtel Lippus  15.10.2025 
 
 heli = Read from file: "../helifailid/konsonandid.wav"
 pitch = To Pitch (filtered autocorrelation): 0, 50, 800, 15, "no", 0.03, 0.09, 0.5, 0.055, 0.35, 0.14

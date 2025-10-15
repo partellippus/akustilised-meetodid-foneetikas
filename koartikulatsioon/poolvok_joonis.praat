@@ -1,7 +1,8 @@
 Erase all
 Read from file: "poolvok.Collection"
 
-Select outer viewport: 0, 4, 0, 4
+Font size: 14
+Select outer viewport: 0, 4.1, 0, 4
 
 selectObject: "Sound aja"
 spec = To Spectrogram: 0.005, 5000, 0.002, 20, "Gaussian"
@@ -18,7 +19,6 @@ Text bottom: "yes", "Aeg (s)"
 # Marks bottom: 3, "yes", "yes", "no"
 plusObject: spec
 plusObject: "Sound aja"
-plusObject: "TextGrid aja"
 Remove
 selectObject: "TextGrid aja"
 runScript: preferencesDirectory$ + "/plugin_Sampa2Praat/sampa2praat.praat", 2, "Sampa to Praat", "Replace_tier"
@@ -32,7 +32,7 @@ for i to intd
 endfor
 
 
-Select outer viewport: 3, 7, 0, 4
+Select outer viewport: 2.95, 7.05, 0, 4
 
 selectObject: "Sound aja__2_"
 spec = To Spectrogram: 0.005, 5000, 0.002, 20, "Gaussian"
@@ -47,7 +47,6 @@ Text bottom: "yes", "Aeg (s)"
 # Marks bottom: 3, "yes", "yes", "no"
 plusObject: spec
 plusObject: "Sound aja__2_"
-plusObject: "TextGrid aja__2_"
 Remove
 selectObject: "TextGrid aja__2_"
 runScript: preferencesDirectory$ + "/plugin_Sampa2Praat/sampa2praat.praat", 2, "Sampa to Praat", "Replace_tier"
@@ -60,7 +59,7 @@ for i to intd
   One mark bottom: stop, "no", "yes", "yes", fixed$(stop, 3)
 endfor
 
-Select outer viewport: 6, 10, 0, 4
+Select outer viewport: 5.9, 10, 0, 4
 
 selectObject: "Sound tuua"
 spec = To Spectrogram: 0.005, 5000, 0.002, 20, "Gaussian"
@@ -75,7 +74,6 @@ Text bottom: "yes", "Aeg (s)"
 # Marks bottom: 3, "yes", "yes", "no"
 plusObject: spec
 plusObject: "Sound tuua"
-plusObject: "TextGrid tuua"
 Remove
 selectObject: "TextGrid tuua"
 runScript: preferencesDirectory$ + "/plugin_Sampa2Praat/sampa2praat.praat", 2, "Sampa to Praat", "Replace_tier"
@@ -89,6 +87,6 @@ for i to intd
 endfor
 
 
-Select outer viewport: 0, 10, 0, 4
+Select outer viewport: 0, 9.5, 0.2, 4
 
 Save as 300-dpi PNG file: "poolvok.png"

@@ -1,5 +1,5 @@
 # Keerukam F1-F2 formantruumi skript, kus iga vokaal joonistatakse eraldi värviga 
-# CC by Pärtel Lippus  10.06.2025 
+# CC by Pärtel Lippus  15.10.2025 
 
 heli = Read from file: "../helifailid/isoleeritud_vokaalid.wav"
 formant = To Formant (burg): 0, 5, 4700, 0.025, 50

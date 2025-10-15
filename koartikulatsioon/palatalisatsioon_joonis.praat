@@ -3,6 +3,7 @@
 
 Erase all
 #Read from file: "ka-pa-ta.Collection"
+Font size: 14
 
 Select outer viewport: 0, 5.25, 0, 4
 
@@ -69,6 +70,6 @@ for i from s1 to s2
 endfor
 
 
-Select outer viewport: 0, 10, 0, 4
+Select outer viewport: 0, 9.4, 0.2, 4
 
 Save as 300-dpi PNG file: "palatalisatsioon.png"

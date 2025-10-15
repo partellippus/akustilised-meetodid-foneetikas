@@ -1,5 +1,5 @@
 # Helilaine joonis taustapildiga 
-# CC by Pärtel Lippus  10.06.2025 
+# CC by Pärtel Lippus  15.10.2025 
  heli = Read from file: "../helifailid/konsonandid.wav"
 Axes: 0, 1, 0, 1
 Select inner viewport: 0, 6, 0, 4

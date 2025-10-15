@@ -1,9 +1,10 @@
 # Joonised lai- ja kitsariba spektrogrammist
 # CC by, Pärtel Lippus, 6.08.2024
 
+Font size: 12
 
 Erase all
-wav = Read from file: "../Failid/spekter/synt_vok_e.wav"
+wav = Read from file: "synt_vok_e.wav"
 
 
 for i to 2
@@ -40,5 +41,5 @@ for i to 2
   Black
 endfor
 
-Select outer viewport: 0, 7.5, 0, 4
-Save as 300-dpi PNG file: "../Failid/spekter/kitsas-vs-lairiba.png"
+Select outer viewport: 0, 7, 0.3, 4
+Save as 300-dpi PNG file: "kitsas-vs-lairiba.png"

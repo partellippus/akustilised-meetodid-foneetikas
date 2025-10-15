@@ -4,6 +4,8 @@
 Erase all
 Read from file: "ka-pa-ta.Collection"
 
+Font size: 14
+
 Select outer viewport: 0, 4, 0, 4
 
 selectObject: "Sound ka"
@@ -25,7 +27,7 @@ plusObject: "Sound ka"
 plusObject: "TextGrid ka"
 Remove
 
-Select outer viewport: 3, 7, 0, 4
+Select outer viewport: 3-0.2, 7-0.2, 0, 4
 
 selectObject: "Sound pa"
 spec = To Spectrogram: 0.005, 5000, 0.002, 20, "Gaussian"
@@ -44,7 +46,7 @@ plusObject: "Sound pa"
 plusObject: "TextGrid pa"
 Remove
 
-Select outer viewport: 6, 10, 0, 4
+Select outer viewport: 6-0.4, 10-0.4, 0, 4
 
 selectObject: "Sound ta"
 spec = To Spectrogram: 0.005, 5000, 0.002, 20, "Gaussian"
@@ -63,6 +65,6 @@ plusObject: "Sound ta"
 plusObject: "TextGrid ta"
 Remove
 
-Select outer viewport: 0, 10, 0, 4
+Select outer viewport: 0, 9, 0.2, 4
 
 Save as 300-dpi PNG file: "ka-pa-ta.png"

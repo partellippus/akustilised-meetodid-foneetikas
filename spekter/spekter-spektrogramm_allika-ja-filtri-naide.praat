@@ -1,6 +1,8 @@
 # Skript, mis sünteesib vokaalid /e/ ja /a/ ning joonistab nende spektrid
 # CC by, Pärtel Lippus, 25.07.2024
 
+# font
+Font size: 12
 
 # tekita allika heli f0 = 100 Hz kestus 0.5 sek
 
@@ -29,6 +31,7 @@ for i to 5
   Text: i*100, "centre", y+8, "half", "f"+string$(i-1)
 endfor
 Black
+Select outer viewport: 0, 5.5, 0.4, 4
 Save as 300-dpi PNG file: "k6rihaale_spekter_synt.png"
 selectObject: spec
 Remove
@@ -79,7 +82,7 @@ for vok to 2
 endfor
   
 # salvestame joonise kahe paneeliga
-Select outer viewport: 0, 7.5, 0, 4
+Select outer viewport: 0, 7, 0.4, 4
 Save as 300-dpi PNG file: "vokaali_a_ja_e_spekter_synt.png"
 
 
@@ -128,5 +131,5 @@ for vok to 2
 endfor
 
 # salvestame joonise kahe paneeliga
-Select outer viewport: 0, 7.5, 0, 4
+Select outer viewport: 0, 7, 0.4, 4
 Save as 300-dpi PNG file: "mahisjoon_spekter_synt_a_ja_e.png"

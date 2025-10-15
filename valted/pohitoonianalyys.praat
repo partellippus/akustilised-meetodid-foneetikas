@@ -1,6 +1,6 @@
 clearinfo
 appendInfoLine: "aeg", tab$, "f0"
-heli = Read from file: "w320.wav"
+heli = Read from file: "../valted/w320.wav"
 To Pitch (filtered autocorrelation): 0, 50, 800,
 ... 15, "no", 0.03, 0.09, 0.5, 0.055, 0.35, 0.14
 nframe = Get number of frames
