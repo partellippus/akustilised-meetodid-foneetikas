@@ -1,0 +1,130 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.8463456417694033 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sõnad" 
+        xmin = 0 
+        xmax = 0.8463456417694033 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0016299502394758747 
+            text = "see" 
+        intervals [2]:
+            xmin = 0.0016299502394758747 
+            xmax = 0.3696973252224325 
+            text = "nelja+päeval" 
+        intervals [3]:
+            xmin = 0.3696973252224325 
+            xmax = 0.638745042947221 
+            text = "eksam" 
+        intervals [4]:
+            xmin = 0.638745042947221 
+            xmax = 0.7587247587143793 
+            text = "on/.?" 
+        intervals [5]:
+            xmin = 0.7587247587143793 
+            xmax = 0.8463456417694033 
+            text = ".h" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "häälikud" 
+        xmin = 0 
+        xmax = 0.8463456417694033 
+        intervals: size = 18 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.0016299502394758747 
+            text = "e" 
+        intervals [2]:
+            xmin = 0.0016299502394758747 
+            xmax = 0.044854285254814386 
+            text = "n" 
+        intervals [3]:
+            xmin = 0.044854285254814386 
+            xmax = 0.10770080303745999 
+            text = "e" 
+        intervals [4]:
+            xmin = 0.10770080303745999 
+            xmax = 0.1317783650451929 
+            text = "l'" 
+        intervals [5]:
+            xmin = 0.1317783650451929 
+            xmax = 0.15585592705292584 
+            text = "l" 
+        intervals [6]:
+            xmin = 0.15585592705292584 
+            xmax = 0.200122967425159 
+            text = "A" 
+        intervals [7]:
+            xmin = 0.200122967425159 
+            xmax = 0.2461960668001666 
+            text = "p" 
+        intervals [8]:
+            xmin = 0.2461960668001666 
+            xmax = 0.2922691661751742 
+            text = "p" 
+        intervals [9]:
+            xmin = 0.2922691661751742 
+            xmax = 0.3378659720599444 
+            text = "{_r" 
+        intervals [10]:
+            xmin = 0.3378659720599444 
+            xmax = 0.3696973252224325 
+            text = "l" 
+        intervals [11]:
+            xmin = 0.3696973252224325 
+            xmax = 0.42898458749073143 
+            text = "e" 
+        intervals [12]:
+            xmin = 0.42898458749073143 
+            xmax = 0.48693397401780203 
+            text = "k:" 
+        intervals [13]:
+            xmin = 0.48693397401780203 
+            xmax = 0.5571261886841512 
+            text = "s" 
+        intervals [14]:
+            xmin = 0.5571261886841512 
+            xmax = 0.6028327470714885 
+            text = "A_k" 
+        intervals [15]:
+            xmin = 0.6028327470714885 
+            xmax = 0.638745042947221 
+            text = "m_k" 
+        intervals [16]:
+            xmin = 0.638745042947221 
+            xmax = 0.6975106180168495 
+            text = "o_k" 
+        intervals [17]:
+            xmin = 0.6975106180168495 
+            xmax = 0.7587247587143793 
+            text = "n_k:" 
+        intervals [18]:
+            xmin = 0.7587247587143793 
+            xmax = 0.8463456417694033 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "häälelaad" 
+        xmin = 0 
+        xmax = 0.8463456417694033 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.5571261886841512 
+            text = "" 
+        intervals [2]:
+            xmin = 0.5571261886841512 
+            xmax = 0.7587247587143793 
+            text = "kärin" 
+        intervals [3]:
+            xmin = 0.7587247587143793 
+            xmax = 0.8463456417694033 
+            text = "" 

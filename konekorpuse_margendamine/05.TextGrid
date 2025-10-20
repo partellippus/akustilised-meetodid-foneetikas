@@ -1,0 +1,56 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.6233409999999822 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sõnad" 
+        xmin = 0 
+        xmax = 0.6233409999999822 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19157828319271175 
+            text = ".sisse" 
+        intervals [2]:
+            xmin = 0.19157828319271175 
+            xmax = 0.43144946803931816 
+            text = "kõik" 
+        intervals [3]:
+            xmin = 0.43144946803931816 
+            xmax = 0.6233409999999822 
+            text = "mõeldakse" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "häälikud" 
+        xmin = 0 
+        xmax = 0.6233409999999822 
+        intervals: size = 6 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.19157828319271175 
+            text = "" 
+        intervals [2]:
+            xmin = 0.19157828319271175 
+            xmax = 0.2881497991699007 
+            text = "k" 
+        intervals [3]:
+            xmin = 0.2881497991699007 
+            xmax = 0.33332034696570645 
+            text = "7" 
+        intervals [4]:
+            xmin = 0.33332034696570645 
+            xmax = 0.43144946803931816 
+            text = "k:" 
+        intervals [5]:
+            xmin = 0.43144946803931816 
+            xmax = 0.48985965915460383 
+            text = "m" 
+        intervals [6]:
+            xmin = 0.48985965915460383 
+            xmax = 0.6233409999999822 
+            text = "7" 

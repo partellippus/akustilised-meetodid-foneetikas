@@ -1,0 +1,68 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.523342601137756 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sõnad" 
+        xmin = 0 
+        xmax = 0.523342601137756 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.23166836906796107 
+            text = "mina" 
+        intervals [2]:
+            xmin = 0.23166836906796107 
+            xmax = 0.44000000000005457 
+            text = "käin" 
+        intervals [3]:
+            xmin = 0.44000000000005457 
+            xmax = 0.523342601137756 
+            text = "tööl" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "häälikud" 
+        xmin = 0 
+        xmax = 0.523342601137756 
+        intervals: size = 9 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.07853939723133863 
+            text = "m" 
+        intervals [2]:
+            xmin = 0.07853939723133863 
+            xmax = 0.1306240815295041 
+            text = "i" 
+        intervals [3]:
+            xmin = 0.1306240815295041 
+            xmax = 0.16812505422421964 
+            text = "j" 
+        intervals [4]:
+            xmin = 0.16812505422421964 
+            xmax = 0.23166836906796107 
+            text = "A" 
+        intervals [5]:
+            xmin = 0.23166836906796107 
+            xmax = 0.3004201523415304 
+            text = "k" 
+        intervals [6]:
+            xmin = 0.3004201523415304 
+            xmax = 0.3545882240116498 
+            text = "{" 
+        intervals [7]:
+            xmin = 0.3545882240116498 
+            xmax = 0.4087562956817692 
+            text = "i" 
+        intervals [8]:
+            xmin = 0.4087562956817692 
+            xmax = 0.44000000000005457 
+            text = "n" 
+        intervals [9]:
+            xmin = 0.44000000000005457 
+            xmax = 0.523342601137756 
+            text = "t" 

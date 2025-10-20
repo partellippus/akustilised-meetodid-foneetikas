@@ -1,5 +1,5 @@
 # Lihtsalt helilaine joonis vaikimisi väärtustega 
-# CC by Pärtel Lippus  15.10.2025 
+# CC by Pärtel Lippus  20.10.2025 
 
 heli = Read from file: "../helifailid/konsonandid.wav"
 Draw: 0, 0, 0, 0, "yes", "curve"

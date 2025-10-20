@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.5133479999999508 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "sõnad" 
+        xmin = 0 
+        xmax = 0.5133479999999508 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.1847949938091915e-07 
+            text = "küll" 
+        intervals [2]:
+            xmin = 2.1847949938091915e-07 
+            xmax = 0.1824976745189133 
+            text = "ühe" 
+        intervals [3]:
+            xmin = 0.1824976745189133 
+            xmax = 0.4191556658988702 
+            text = "korra" 
+        intervals [4]:
+            xmin = 0.4191556658988702 
+            xmax = 0.5133479999999508 
+            text = "läksin" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "häälikud" 
+        xmin = 0 
+        xmax = 0.5133479999999508 
+        intervals: size = 11 
+        intervals [1]:
+            xmin = 0 
+            xmax = 2.1847949938091915e-07 
+            text = "" 
+        intervals [2]:
+            xmin = 2.1847949938091915e-07 
+            xmax = 0.04591893322492524 
+            text = "y" 
+        intervals [3]:
+            xmin = 0.04591893322492524 
+            xmax = 0.10478908033439893 
+            text = "h_v" 
+        intervals [4]:
+            xmin = 0.10478908033439893 
+            xmax = 0.1824976745189133 
+            text = "e_o" 
+        intervals [5]:
+            xmin = 0.1824976745189133 
+            xmax = 0.27551250695182716 
+            text = "k" 
+        intervals [6]:
+            xmin = 0.27551250695182716 
+            xmax = 0.3273182364081322 
+            text = "o" 
+        intervals [7]:
+            xmin = 0.3273182364081322 
+            xmax = 0.368527339384741 
+            text = "r" 
+        intervals [8]:
+            xmin = 0.368527339384741 
+            xmax = 0.4191556658988702 
+            text = "A" 
+        intervals [9]:
+            xmin = 0.4191556658988702 
+            xmax = 0.4697839924131131 
+            text = "l" 
+        intervals [10]:
+            xmin = 0.4697839924131131 
+            xmax = 0.5133479012740736 
+            text = "{" 
+        intervals [11]:
+            xmin = 0.5133479012740736 
+            xmax = 0.5133479999999508 
+            text = "k" 

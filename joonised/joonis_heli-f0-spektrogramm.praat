@@ -1,5 +1,5 @@
 # Joonistab helilaine, selle alla põhitooni, spektrogrammi ja formandid ning lisab TextGridilt häälikupiirid 
-# CC by Pärtel Lippus  15.10.2025 
+# CC by Pärtel Lippus  20.10.2025 
 
 heli = Read from file: "../helifailid/konsonandid.wav"
 Select outer viewport: 0, 6, 0, 1.5
