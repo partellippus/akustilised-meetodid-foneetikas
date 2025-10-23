@@ -1,5 +1,5 @@
 # Joonistab viimistlamata helilaine 
-# CC by Pärtel Lippus  20.10.2025 
+# CC by Pärtel Lippus  23.10.2025 
 
 heli = Read from file: "../helifailid/konsonandid.wav"
 Draw: 6.784, 7.188, 0, 0, "no", "curve"

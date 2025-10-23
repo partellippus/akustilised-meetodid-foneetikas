@@ -1,6 +1,6 @@
 # Loeb sisse helifaili, teeb sellest spektrogrammi ja joonistab 
 # siis valib heli, teeb formantanalüüsi ja lisab punased täpid 
-# CC by Pärtel Lippus  20.10.2025 
+# CC by Pärtel Lippus  23.10.2025 
 
 heli = Read from file: "../helifailid/konsonandid.wav"
 spec = To Spectrogram: 0.005, 5000, 0.002, 20, "Gaussian"

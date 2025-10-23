@@ -1,5 +1,5 @@
 # Vokaalide formandid Scatter plot käsuga f1-f2 formantruumis 
-# CC by Pärtel Lippus  20.10.2025 
+# CC by Pärtel Lippus  23.10.2025 
 
 heli = Read from file: "../helifailid/isoleeritud_vokaalid.wav"
 formant = To Formant (burg): 0, 5, 5000, 0.025, 50

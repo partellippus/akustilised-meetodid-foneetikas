@@ -1,5 +1,5 @@
 # Joonistab sirgete joontega põhitoonikontuurid mingite ette antud väärtuste põhjal 
-# CC by Pärtel Lippus  20.10.2025 
+# CC by Pärtel Lippus  23.10.2025 
 
 Axes: 0, 500, 75, 115
 Line width: 3
